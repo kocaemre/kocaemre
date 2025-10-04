@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">Bug Hunter | Blockchain Developer</h3>
+<h3 align="center">Cyber Security Enthusiast | Blockchain Developer</h3>
 
-- 👯 I’m looking to collaborate on **Blockchain projects**
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
-- 📝 I regularly write articles on [https://kocaemre.medium.com/](https://kocaemre.medium.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
