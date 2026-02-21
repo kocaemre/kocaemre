@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">Cyber Security Enthusiast | Blockchain Developer</h3>
 
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" 
+     width="300" 
+     style="display: block; margin: 0 auto;">
 
 
 <h3 align="left">Connect with me:</h3>
