@@ -72,10 +72,15 @@ offensive security community.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kocaemre&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00e0c6&icon_color=00e0c6)
-![Streak](https://streak-stats.demolab.com?user=kocaemre&theme=radical&hide_border=true&background=0d1117&ring=00e0c6&fire=00e0c6&currStreakLabel=00e0c6)
+<img height="165" src="https://github-readme-stats-tau-lime-48.vercel.app/api?username=kocaemre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00e0c6&icon_color=00e0c6" alt="stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kocaemre&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e0c6&langs_count=8)
+<br/>
+
+<img height="165" src="https://github-readme-stats-tau-lime-48.vercel.app/api/top-langs/?username=kocaemre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e0c6&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kocaemre&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e0c6&line=00e0c6&point=ffffff&area=true" alt="activity graph" />
 
 </div>
 
