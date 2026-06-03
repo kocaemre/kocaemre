@@ -7,7 +7,7 @@
 
 ### `Cyber Security Enthusiast` • `OSCP Holder` • `Penetration Tester`
 
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="400" alt="Darlene"/>
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="350" alt="Darlene"/>
 
 <br/>
 
