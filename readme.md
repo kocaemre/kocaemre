@@ -30,7 +30,7 @@ emre@offsec:~$ cat /etc/profile
 role:        Penetration Tester / Offensive Security
 cert:        OSCP (OffSec Certified Professional)
 focus:       [ Web Exploitation, Active Directory, Privilege Escalation ]
-education:   B.Sc. Computer Engineering (final year) → M.Sc. IT Security
+education:   B.Sc. Computer Engineering (final year)
 location:    Istanbul, TR 🇹🇷
 ```
 
