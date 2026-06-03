@@ -74,7 +74,7 @@ offensive security community.
 
 <img height="165" src="https://github-readme-stats-tau-lime-48.vercel.app/api?username=kocaemre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00e0c6&icon_color=00e0c6" alt="stats" />
 
-<br/>
+
 
 <img height="165" src="https://github-readme-stats-tau-lime-48.vercel.app/api/top-langs/?username=kocaemre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e0c6&langs_count=8" alt="top langs" />
 
