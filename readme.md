@@ -11,6 +11,7 @@
 
 <br/>
 
+[![Website](https://img.shields.io/badge/-0xemrek.dev-00E0C6?style=flat&logo=googlechrome&logoColor=white)](https://0xemrek.dev)
 [![Twitter](https://img.shields.io/badge/-@0xemrek-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/0xemrek)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-koca-333283253/)
 [![GitHub](https://img.shields.io/badge/-kocaemre-181717?style=flat&logo=github&logoColor=white)](https://github.com/kocaemre)
@@ -27,6 +28,7 @@ emre@offsec:~$ cat /etc/profile
 ```
 
 ```yaml
+site:        https://0xemrek.dev
 role:        Penetration Tester / Offensive Security
 cert:        OSCP (OffSec Certified Professional)
 focus:       [ Web Exploitation, Active Directory, Privilege Escalation ]
